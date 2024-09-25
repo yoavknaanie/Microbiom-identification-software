@@ -2,7 +2,9 @@ Authors: Noa Lichtenstein and Yoav Knaanie
 This program receives bacteria names and and mass spectrometry raw files.
 It creates a proteome of proteins that were found in the samples.
 It downloads fasta files of the organisms from Uniprot website.
-The program uses fragpipe.
+The program uses fragpipe. If you downloaded it from the git please use this link for the zip file in google drive and download it so your
+folder create_bacteria_proteome will contains the directory fragpipe inside it.
+https://drive.google.com/file/d/1CJ1In1lhKKArHj3JOl_OUwG0QmqEirUV/view?usp=drive_link
 
 requirements:
 	python 3.9 or above.
